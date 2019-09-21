@@ -15,4 +15,4 @@ He needs to fetch 11 of the type that is needed right now (1 for the repair, and
 But how many does he need to fetch of the other?
 
 Assume that the error rate is the same for both parts. What is the probability that he needs to fetch k = 0, 1, 2, ..., 10?
-Assume that the error rate for one part is p=0.3 and for the other 1-p. What is the probability that he needs to fetch k = 0, 1, 2, ..., 10?
+Assume that the error rate for one part is p=1/3 and for the other 1-p. What is the probability that he needs to fetch k = 0, 1, 2, ..., 10?

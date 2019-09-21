@@ -5,7 +5,7 @@ import random
 n = 10000
 a = b = 0
 cut_a = cut_b = 11
-p = 0.3
+p = 1/3
 array = []
 i = 0
 

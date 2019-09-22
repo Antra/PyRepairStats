@@ -1,5 +1,6 @@
 # PyRepairStats
-Assignment from my Brother's maths/stats course on KU:
+Assignment from my Brother's maths/stats course on KU.
+Solved in Python, included a copy of the code in R as well.
 
 ## Simulation task
 In a workshop they replace spareparts on cars.
